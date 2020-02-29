@@ -13,7 +13,7 @@
 </itunes:owner>
 <itunes:explicit>no</itunes:explicit>
 <itunes:image href="http://www.example.com/podcast-icon.jpg"/>
-<itunes:category text="Religion"/></itunes:category>
+<itunes:category text="Religion"/>
 
 <!--REPEAT THIS BLOCK FOR EACH EPISODE-->
 <item>
