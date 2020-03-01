@@ -17,16 +17,40 @@
 
 <!--REPEAT THIS BLOCK FOR EACH EPISODE-->
 <item>
+    <title>Preparing for the Discussion</title>
+    <itunes:summary>Elder Bednar talks about how he prepared this Q+A. From Q+A on Feb 7, 2020.</itunes:summary>
+    <description>Elder Bednar talks about how he prepared this Q+A. From Q+A on Feb 7, 2020.</description>
+    <enclosure url="https://www.dropbox.com/s/pubu52xynya62vb/prepare_for_discussion.mp3?dl=1" type="audio/mpeg" length="1024"></enclosure>
+    <pubDate>Sun, 1 Mar 2020 13:00:00 +0000</pubDate>
+    <itunes:author>Elder David A. Bednar</itunes:author>
+    <itunes:duration>00:06:00</itunes:duration>
+    <itunes:explicit>no</itunes:explicit>
+    <guid>bc3d69b7-9df6-4ae6-8ef2-c3f4c60d54c4</guid>
+</item>
+
+<item>
+    <title>Doing Your Best</title>
+    <itunes:summary>Elder Bednar talks about doing your best. From Q+A on Feb 7, 2020.</itunes:summary>
+    <description>Elder Bednar talks about doing your best. From Q+A on Feb 7, 2020.</description>
+    <enclosure url="https://www.dropbox.com/s/pubu52xynya62vb/doing_your_best.mp3?dl=1" type="audio/mpeg" length="1024"></enclosure>
+    <pubDate>Sun, 1 Mar 2020 12:00:00 +0000</pubDate>
+    <itunes:author>Elder David A. Bednar</itunes:author>
+    <itunes:duration>00:06:00</itunes:duration>
+    <itunes:explicit>no</itunes:explicit>
+    <guid>c619f612-8407-413f-b538-53919361c62e</guid>
+</item>
+
+<item>
     <title>Motivation and Rewards</title>
     <itunes:summary>Elder Bednar gives his take on motivation and rewards in organizational settings.</itunes:summary>
     <description>Elder Bednar gives his take on motivation and rewards in organizational settings.</description>
-    <enclosure url="https://www.dropbox.com/s/pubu52xynya62vb/doing_your_best.mp3?dl=1" type="audio/mpeg" length="1024"></enclosure>
-    <pubDate>Tue, 30 Jul 2019 16:01:07 +0000</pubDate>
+    <enclosure url="https://www.dropbox.com/s/pubu52xynya62vb/motivation.mp3?dl=1" type="audio/mpeg" length="1024"></enclosure>
+    <pubDate>Sat, 29 Feb 2020 12:00:00 +0000</pubDate>
     <itunes:author>Elder David A. Bednar</itunes:author>
     <itunes:duration>00:02:46</itunes:duration>
     <itunes:explicit>no</itunes:explicit>
     <guid>ffe06026-3382-4687-acef-48e4713a24d1</guid>
-</item> 
+</item>
 <!--END REPEAT--> 
    
 </channel>
