@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
+<channel>
+<title>PodTalk Test Feed</title>
+<language>en-us</language>
+<itunes:subtitle>PodTalk Testing</itunes:subtitle>
+<itunes:author>Kasey Baughan</itunes:author>
+<itunes:summary>A feed for testing out certain features in PodTalk.</itunes:summary>
+<description>A feed for testing out certain features in PodTalk.</description>
+<itunes:owner>
+    <itunes:name>Kasey Baughan</itunes:name>
+    <itunes:email>kasey.podtalk@gmail.com</itunes:email>
+</itunes:owner>
+<itunes:explicit>no</itunes:explicit>
+<itunes:image href="https://github.com/kaseyb002/BootlegBednar/raw/master/bednar.jpeg"/>
+<itunes:category text="Religion"/>
+
+<!--REPEAT THIS BLOCK FOR EACH EPISODE-->
+<item>
+    <title>Episode 1</title>
+    <itunes:summary>Here is the first episode.</itunes:summary>
+    <description>Here is the first episode.</description>
+    <enclosure url="https://files.libertyfund.org/econtalk/y2020/Levinbuild.mp3" type="audio/mpeg" length="1024"></enclosure>
+    <pubDate>Sun, 1 Mar 2020 13:00:00 +0000</pubDate>
+    <itunes:author>Russ Roberts</itunes:author>
+    <itunes:duration>1:08:58</itunes:duration>
+    <itunes:explicit>no</itunes:explicit>
+    <guid>0ee01995-7628-4fea-89e2-1601ee835423</guid>
+</item>
+<!--END REPEAT--> 
+   
+</channel>
+</rss>
