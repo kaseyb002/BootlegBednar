@@ -17,6 +17,18 @@
 
 <!--REPEAT THIS BLOCK FOR EACH EPISODE-->
 <item>
+    <title>Birmingham, Alabama Stake Conference</title>
+    <itunes:summary>Stake Conference held in Birmingham, Alabama on June 5, 2016.</itunes:summary>
+    <description>Stake Conference held in Birmingham, Alabama on June 5, 2016.</description>
+    <enclosure url="https://www.dropbox.com/s/7akpc4c0flkswpr/David%20A%20Bednar%2C%20Brimingham%20Alabama%2C%205%20June%202016.mp3?dl=1" type="audio/mpeg" length="1024"></enclosure>
+    <pubDate>Sun, 15 Mar 2020 10:36:00 +0000</pubDate>
+    <itunes:author>Elder David A. Bednar</itunes:author>
+    <itunes:duration>00:45:34</itunes:duration>
+    <itunes:explicit>no</itunes:explicit>
+    <guid>ad082a95-a291-4e31-ae56-b86850b24453</guid>
+</item>
+
+<item>
     <title>Character of Christ – MTC Talk</title>
     <itunes:summary>MTC talk on Character of Christ. Date unknown.</itunes:summary>
     <description>MTC talk on Character of Christ. Date unknown.</description>
@@ -29,9 +41,9 @@
 </item>
 
 <item>
-    <title>Scranton, PA Stake Conference</title>
-    <itunes:summary>Stake Conference held in Scranton, PA on June 9, 2013.</itunes:summary>
-    <description>Stake Conference held in Scranton, PA on June 9, 2013.</description>
+    <title>Scranton, Pennsylvania Stake Conference</title>
+    <itunes:summary>Stake Conference held in Scranton, Pennsylvania on June 9, 2013.</itunes:summary>
+    <description>Stake Conference held in Scranton, Pennsylvania on June 9, 2013.</description>
     <enclosure url="https://www.dropbox.com/s/kflzvnbpxfw4f3z/scranton_stake_conference.mp3?dl=1" type="audio/mpeg" length="1024"></enclosure>
     <pubDate>Sat, 7 Mar 2020 09:28:00 +0000</pubDate>
     <itunes:author>Elder David A. Bednar</itunes:author>
