@@ -17,6 +17,18 @@
 
 <!--REPEAT THIS BLOCK FOR EACH EPISODE-->
 <item>
+    <title>Episode 7</title>
+    <itunes:summary>Here is an episode.</itunes:summary>
+    <description>Here is an episode.</description>
+    <enclosure url="http://files.libertyfund.org/econtalk/y2019/Matuschaklearning.mp3" type="audio/mpeg" length="1024"></enclosure>
+    <pubDate>Wed, 9 April 2020 18:00:00 +0000</pubDate>
+    <itunes:author>Russ Roberts</itunes:author>
+    <itunes:duration>1:08:58</itunes:duration>
+    <itunes:explicit>no</itunes:explicit>
+    <guid>0ee01995-7628-4fea-89e2-1601ee835432</guid>
+</item>
+
+<item>
     <title>Episode 6</title>
     <itunes:summary>Here is an episode.</itunes:summary>
     <description>Here is an episode.</description>
