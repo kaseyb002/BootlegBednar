@@ -17,6 +17,18 @@
 
 <!--REPEAT THIS BLOCK FOR EACH EPISODE-->
 <item>
+    <title>Woodland, California Stake Conference</title>
+    <itunes:summary>Stake Conference held in Woodland, California on April 24, 2016.</itunes:summary>
+    <description>Stake Conference held in Woodland, California on April 24, 2016.</description>
+    <enclosure url="https://www.dropbox.com/s/qscrvsgerwjws9z/woodland_stake_conference.mp3?dl=1" type="audio/mpeg" length="1024"></enclosure>
+    <pubDate>Sun, 26 Apr 2020 10:36:00 +0000</pubDate>
+    <itunes:author>Elder David A. Bednar</itunes:author>
+    <itunes:duration>01:03:21</itunes:duration>
+    <itunes:explicit>no</itunes:explicit>
+    <guid>ad082a95-a291-4e31-ae56-b86850b24488</guid>
+</item>
+
+<item>
     <title>Birmingham, Alabama Stake Conference</title>
     <itunes:summary>Stake Conference held in Birmingham, Alabama on June 5, 2016.</itunes:summary>
     <description>Stake Conference held in Birmingham, Alabama on June 5, 2016.</description>
