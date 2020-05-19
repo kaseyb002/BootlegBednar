@@ -17,16 +17,31 @@
 
 <!--REPEAT THIS BLOCK FOR EACH EPISODE-->
 
+
+
+
 <item>
     <title>Contracts: Consideration Part 1</title>
     <itunes:summary>The foundation for all contracts is both sides offering consideration. Learn what counts as consideration and its limits.</itunes:summary>
     <description>The foundation for all contracts is both sides offering consideration. Learn what counts as consideration and its limits.</description>
     <enclosure url="https://www.dropbox.com/s/dcg2ndqtwi35w15/consideration_part_1.mp3?dl=1" type="audio/mpeg" length="1024"></enclosure>
-    <pubDate>Tue, 19 May 2020 13:00:00 +0000</pubDate>
+    <pubDate>Tue, 19 May 2020 14:00:00 +0000</pubDate>
     <itunes:author>Kasey Baughan</itunes:author>
     <itunes:duration>12:08</itunes:duration>
     <itunes:explicit>no</itunes:explicit>
     <guid>98445da3-cd3b-4c1c-824a-612623e9b7ee</guid>
+</item>
+
+<item>
+    <title>Contracts: Introduction</title>
+    <itunes:summary>Learn why contracts are a fundamental building block for society.</itunes:summary>
+    <description>Learn why contracts are a fundamental building block for society.</description>
+    <enclosure url="https://www.dropbox.com/s/xonnxrmnteck3kk/contracts_intro.mp3?dl=1" type="audio/mpeg" length="1024"></enclosure>
+    <pubDate>Tue, 19 May 2020 13:00:00 +0000</pubDate>
+    <itunes:author>Kasey Baughan</itunes:author>
+    <itunes:duration>08:28</itunes:duration>
+    <itunes:explicit>no</itunes:explicit>
+    <guid>3c6c0033-18b4-40e1-9894-8404f4a32ee4</guid>
 </item>
 
 <item>
