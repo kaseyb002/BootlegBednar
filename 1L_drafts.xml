@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
+<channel>
+<title>1L TA Drafts</title>
+<language>en-us</language>
+<itunes:subtitle>1L TA Draft Recordings</itunes:subtitle>
+<itunes:author>Kasey Baughan</itunes:author>
+<itunes:summary>Experience the first year of law school with Stanford Law graduate Kasey Baughan. We will start with a brief overview of the US legal system generally, and then move to contract law, tort law, criminal law, and the other subjects you'd typically cover in the first year of law school. Join our PodTalk Section 3 group at https://podtalk.app.</itunes:summary>
+<description>Experience the first year of law school with Stanford Law graduate Kasey Baughan. We will start with a brief overview of the US legal system generally, and then move to contract law, tort law, criminal law, and the other subjects you'd typically cover in the first year of law school. Join our PodTalk Section 3 group at https://podtalk.app.</description>
+<itunes:owner>
+    <itunes:name>Kasey Baughan</itunes:name>
+    <itunes:email>kasey.podtalk@gmail.com</itunes:email>
+</itunes:owner>
+<itunes:explicit>no</itunes:explicit>
+<itunes:image href="https://github.com/kaseyb002/BootlegBednar/raw/master/1l_ta_cover.jpeg"/>
+<itunes:category text="Education"/>
+
+<!--REPEAT THIS BLOCK FOR EACH EPISODE-->
+
+<item>
+    <title>Contracts: Consideration Part 1</title>
+    <itunes:summary>The foundation for all contracts is both sides offering a thing called consideration. Learn about what counts as valid consideration and its limits.</itunes:summary>
+    <description>The foundation for all contracts is both sides offering a thing called consideration. Learn about what counts as valid consideration and its limits.</description>
+    <enclosure url="https://www.dropbox.com/s/dcg2ndqtwi35w15/consideration_part_1.mp3?dl=1" type="audio/mpeg" length="1024"></enclosure>
+    <pubDate>Tue, 19 May 2020 13:00:00 +0000</pubDate>
+    <itunes:author>Kasey Baughan</itunes:author>
+    <itunes:duration>12:08</itunes:duration>
+    <itunes:explicit>no</itunes:explicit>
+    <guid>98445da3-cd3b-4c1c-824a-612623e9b7ee</guid>
+</item>
+
+<item>
+    <title>Ambiguity in the Law</title>
+    <itunes:summary>The foundation for all contracts is both sides offering a thing called consideration. Learn about what counts as valid consideration and its limits.</itunes:summary>
+    <description>The foundation for all contracts is both sides offering a thing called consideration. Learn about what counts as valid consideration and its limits.</description>
+    <enclosure url="https://www.dropbox.com/s/tclz7z2x6rdbdu2/ambiguity.mp3?dl=1" type="audio/mpeg" length="1024"></enclosure>
+    <pubDate>Tue, 19 May 2020 12:00:00 +0000</pubDate>
+    <itunes:author>Kasey Baughan</itunes:author>
+    <itunes:duration>11:55</itunes:duration>
+    <itunes:explicit>no</itunes:explicit>
+    <guid>b4a14bc6-f93c-4e72-a4b2-1bd912858925</guid>
+</item>
+
+<item>
+    <title>The Constitution, Statutes, and Common Law</title>
+    <itunes:summary>The basic hierarchy of laws in the US legal system starts with Consitutional Law, and works its way down to the Common Law. This is important background knowledge to have before we begin studying case law.</itunes:summary>
+    <description>The basic hierarchy of laws in the US legal system starts with Consitutional Law, and works its way down to the Common Law. This is important background knowledge to have before we begin studying case law.</description>
+    <enclosure url="https://www.dropbox.com/s/mv7zh7b4weyixtj/con_stat_common_law.mp3?dl=1" type="audio/mpeg" length="1024"></enclosure>
+    <pubDate>Tue, 19 May 2020 11:00:00 +0000</pubDate>
+    <itunes:author>Kasey Baughan</itunes:author>
+    <itunes:duration>12:02</itunes:duration>
+    <itunes:explicit>no</itunes:explicit>
+    <guid>a753075f-8ffd-450b-b7ea-d7b8d9324969</guid>
+</item>
+<!--END REPEAT--> 
+   
+</channel>
+</rss>
