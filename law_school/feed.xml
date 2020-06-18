@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
+<channel>
+<title>Law School TA Drafts</title>
+<language>en-us</language>
+<itunes:subtitle>Law School TA Draft Recordings</itunes:subtitle>
+<itunes:author>Kasey Baughan</itunes:author>
+<itunes:summary>Stanford Law graduate Kasey Baughan takes you through the first year of law school. We will start with a brief overview of the US legal system generally, and then move to contract law, tort law, criminal law, and the other subjects you'd typically cover in the first year of law school. Join our PodTalk Section 3 group at https://podtalk.app.</itunes:summary>
+<description>Stanford Law graduate Kasey Baughan takes you through the first year of law school. We will start with a brief overview of the US legal system generally, and then move to contract law, tort law, criminal law, and the other subjects you'd typically cover in the first year of law school. Join our PodTalk Section 3 group at https://podtalk.app.</description>
+<itunes:owner>
+    <itunes:name>Kasey Baughan</itunes:name>
+    <itunes:email>kasey.podtalk@gmail.com</itunes:email>
+</itunes:owner>
+<itunes:explicit>no</itunes:explicit>
+<itunes:image href="https://github.com/kaseyb002/BootlegBednar/raw/master/law_school/cover.jpeg"/>
+<itunes:category text="Education"/>
+
+<!--REPEAT THIS BLOCK FOR EACH EPISODE-->
+<item>
+    <title>Contracts: Hamer v Sidway</title>
+    <itunes:summary>
+        Learn about this classic case of an uncle who bribed his son to sober up.
+
+        Court of Appeals of the State of New York 1891
+
+        https://casetext.com/case/hamer-v-sidway
+
+        https://en.wikipedia.org/wiki/Hamer_v._Sidway
+    </itunes:summary>
+    <description>
+        Learn about this classic case of an uncle who bribed his son to sober up.
+
+        Court of Appeals of the State of New York 1891
+
+        https://casetext.com/case/hamer-v-sidway
+
+        https://en.wikipedia.org/wiki/Hamer_v._Sidway
+    </description>
+    <enclosure url="https://github.com/kaseyb002/BootlegBednar/raw/master/law_school/episodes/hamer_v_sidway.mp3" type="audio/mpeg" length="1024"></enclosure>
+    <pubDate>Sat, 23 May 2020 11:00:00 +0000</pubDate>
+    <itunes:author>Kasey Baughan</itunes:author>
+    <itunes:duration>8:43</itunes:duration>
+    <itunes:explicit>no</itunes:explicit>
+    <guid>5775719b-ecff-4c27-9b67-a2eb560da24c</guid>
+</item>
+
+<item>
+    <title>Contracts: Consideration Intro</title>
+    <itunes:summary>The foundation for all contracts is both sides offering consideration. Learn what counts as consideration and its limits.</itunes:summary>
+    <description>The foundation for all contracts is both sides offering consideration. Learn what counts as consideration and its limits.</description>
+    <enclosure url="https://github.com/kaseyb002/BootlegBednar/raw/master/law_school/episodes/consideration_intro.mp3" type="audio/mpeg" length="1024"></enclosure>
+    <pubDate>Fri, 22 May 2020 11:00:00 +0000</pubDate>
+    <itunes:author>Kasey Baughan</itunes:author>
+    <itunes:duration>5:02</itunes:duration>
+    <itunes:explicit>no</itunes:explicit>
+    <guid>e6e96350-7d08-4eaa-a6ed-21c92bc3de66</guid>
+</item>
+
+<item>
+    <title>Contracts: Introduction</title>
+    <itunes:summary>Learn why contracts are a fundamental building block for society.</itunes:summary>
+    <description>Learn why contracts are a fundamental building block for society.</description>
+    <enclosure url="https://github.com/kaseyb002/BootlegBednar/raw/master/law_school/episodes/contracts_intro.mp3" type="audio/mpeg" length="1024"></enclosure>
+    <pubDate>Thu, 21 May 2020 11:00:00 +0000</pubDate>
+    <itunes:author>Kasey Baughan</itunes:author>
+    <itunes:duration>7:13</itunes:duration>
+    <itunes:explicit>no</itunes:explicit>
+    <guid>e528a062-c3dc-4247-92a3-ae8eeb53bdd7</guid>
+</item>
+
+<item>
+    <title>Ambiguity in the Law</title>
+    <itunes:summary>Using the law to resolve disputes always results in some degree of ambiguity. Learn how judges address ambiguity and still come to a resolution.</itunes:summary>
+    <description>Using the law to resolve disputes always results in some degree of ambiguity. Learn how judges address ambiguity and still come to a resolution.</description>
+    <enclosure url="https://github.com/kaseyb002/BootlegBednar/raw/master/law_school/episodes/ambiguity.mp3" type="audio/mpeg" length="1024"></enclosure>
+    <pubDate>Wed, 20 May 2020 11:00:00 +0000</pubDate>
+    <itunes:author>Kasey Baughan</itunes:author>
+    <itunes:duration>11:55</itunes:duration>
+    <itunes:explicit>no</itunes:explicit>
+    <guid>3e5754bd-0d54-4977-8f38-44d7e8ea72e9</guid>
+</item>
+
+<item>
+    <title>Hierarchy of Law</title>
+    <itunes:summary>The basic hierarchy of laws in the US legal system starts with Consitutional Law, and works its way down to the Common Law. This is important background knowledge to have before we begin studying case law.</itunes:summary>
+    <description>The basic hierarchy of laws in the US legal system starts with Consitutional Law, and works its way down to the Common Law. This is important background knowledge to have before we begin studying case law.</description>
+    <enclosure url="https://github.com/kaseyb002/BootlegBednar/raw/master/law_school/episodes/hierarchy_of_law.mp3" type="audio/mpeg" length="1024"></enclosure>
+    <pubDate>Tue, 19 May 2020 11:00:00 +0000</pubDate>
+    <itunes:author>Kasey Baughan</itunes:author>
+    <itunes:duration>10:42</itunes:duration>
+    <itunes:explicit>no</itunes:explicit>
+    <guid>55c4d1b1-8201-46b1-a455-38b560df14ef</guid>
+</item>
+
+<item>
+    <title>Intro</title>
+    <itunes:summary>Meet the host and find out what this podcast is all about.</itunes:summary>
+    <description>Meet the host and find out what this podcast is all about.</description>
+    <enclosure url="https://github.com/kaseyb002/BootlegBednar/raw/master/law_school/episodes/intro.mp3" type="audio/mpeg" length="1024"></enclosure>
+    <pubDate>Mon, 18 May 2020 11:00:00 +0000</pubDate>
+    <itunes:author>Kasey Baughan</itunes:author>
+    <itunes:duration>2:36</itunes:duration>
+    <itunes:explicit>no</itunes:explicit>
+    <guid>820763a6-e7ea-43f8-865a-50e2638d34ab</guid>
+</item>
+<!--END REPEAT--> 
+   
+</channel>
+</rss>
